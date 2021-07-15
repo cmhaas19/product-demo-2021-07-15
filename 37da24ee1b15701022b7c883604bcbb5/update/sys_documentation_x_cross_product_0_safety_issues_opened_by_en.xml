@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="opened_by" label="Opened by" language="en" table="x_cross_product_0_safety_issues">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <help/>
+            <hint/>
+            <label>Opened by</label>
+            <language>en</language>
+            <name>x_cross_product_0_safety_issues</name>
+            <plural>Opened by</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-07-15 00:23:19</sys_created_on>
+            <sys_id>af0b68ee1b15701022b7c883604bcb2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Opened by</sys_name>
+            <sys_package display_value="Product Demo 2021-07-15" source="x_cross_product_0">37da24ee1b15701022b7c883604bcbb5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Product Demo 2021-07-15">37da24ee1b15701022b7c883604bcbb5</sys_scope>
+            <sys_update_name>sys_documentation_x_cross_product_0_safety_issues_opened_by_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-07-15 00:23:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
